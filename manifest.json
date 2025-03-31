@@ -1,0 +1,32 @@
+{
+    "name": "Timer - Ficha 4",
+    "short_name": "ficha4",
+    "start_url": "https://andreribeiroesmad.github.io/ficha4/",
+    "icons": [
+      {
+        "src": "imgs/1.png",
+        "sizes": "30x30",
+        "type": "image/png"
+      },
+      {
+        "src": "imgs/2.png",
+        "sizes": "45x45",
+        "type": "image/png"
+      },
+      {
+        "src": "imgs/3.png",
+        "sizes": "60x60",
+        "type": "image/png"
+      },
+      {
+        "src": "imgs/4.png",
+        "sizes": "120x120",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "."
+  }
